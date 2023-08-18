@@ -40,4 +40,4 @@ dist/**/*
 # ignore yarn.lock
 yarn.lock
 dist
-*DS_Store*
+.DS_Store
